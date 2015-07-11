@@ -5,6 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
+Coder Manual Project Application
+Subscription-based web application
+https://codermanual.com
+
+
 * Ruby version
 
 * System dependencies
